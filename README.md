@@ -1,6 +1,6 @@
-This is pipeline for genome assembly (HiFi)
+This is pipeline for genome assembly
 
 Hifiasm
-
 Repeatmodeler
 Repeatmasker
+YaHS
